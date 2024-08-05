@@ -1,0 +1,32 @@
+{
+  "name": "money_in_this_economy_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thirza258/money_in_this_economy_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thirza258/money_in_this_economy_backend/issues"
+  },
+  "homepage": "https://github.com/thirza258/money_in_this_economy_backend#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@typescript-eslint/eslint-plugin": "^8.0.0",
+    "@typescript-eslint/parser": "^8.0.0",
+    "eslint": "^9.8.0",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "convex": "^1.13.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
